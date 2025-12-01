@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Certifications
 
-[![Certified ScrumMaster](https://bcert.me/sfrpwgkhk)](https://www.scrumalliance.org)
+[![Certified ScrumMaster](https://www.scrumalliance.org/badges/sa-csm-600.png)](https://www.scrumalliance.org)
 
 <!--
 **yusefu/yusefu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
